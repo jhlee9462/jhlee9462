@@ -1,6 +1,6 @@
 <div align="center">
 
-# This is Jin-ho Lee
+# Welcom to Jin-ho Lee's github
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhlee9462&count_bg=%23BE60FF&title_bg=%2385BFE3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jhlee9462)
 
