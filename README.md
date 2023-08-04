@@ -7,7 +7,7 @@
 ![RobertPlant.gif](RobertPlant.gif)
 
 ## Portfolio
-[![Portfolio](포트폴리오로 이동)(https://www.notion.so/led-zeppelin/c8ff3a364aa9483aaf8cd7b27abcb735)
+[![Portfolio](포트폴리오로 이동)(https://www.notion.so/led-zeppelin/c8ff3a364aa9483aaf8cd7b27abcb735)]
 
 ---
 
