@@ -8,7 +8,7 @@
 
 ## Portfolio
 [포트폴리오로 이동](https://led-zeppelin.notion.site/c8ff3a364aa9483aaf8cd7b27abcb735?pvs=4)
-
+[Portfolio in English](https://led-zeppelin.notion.site/Joy-Driving-force-of-development-c01ae5c007bd4b469110e143924570b7?pvs=4)
 ---
 
 ## Skill Stack
