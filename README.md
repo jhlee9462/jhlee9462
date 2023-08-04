@@ -40,6 +40,8 @@ on
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
 &
 <img src="https://img.shields.io/badge/windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+&
+<img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
 ---
 
