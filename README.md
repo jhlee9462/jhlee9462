@@ -52,6 +52,10 @@ on
 &
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
+### statistics
+
+[![Language Statistics](github-readme-stats.vercel.app/api/top-langs/?username=jhlee9462&langs_count=8)
+
 ---
 
 ## Status
