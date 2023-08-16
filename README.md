@@ -54,7 +54,7 @@ on
 
 ### statistics
 
-[![Language Statistics](github-readme-stats.vercel.app/api/top-langs/?username=jhlee9462&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhlee9462&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
